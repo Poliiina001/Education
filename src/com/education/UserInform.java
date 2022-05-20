@@ -16,6 +16,7 @@ public class UserInform {
         manager.setPosition("manager");
         manager.setResponsibilityDistrict("controlling");
         manager.setWorkPhoneNumber("+380964433311");
-        manager.printUser();
+        //manager.printUser();
+        //
     }
 }
